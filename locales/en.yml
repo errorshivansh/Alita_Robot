@@ -580,21 +580,21 @@ strings:
     commands_btn: Commands & Help
     group: "I'm alive :3"
     info_page: |-
-      • @Alita_Robot
+      • @Eiva_Robot
 
       <b>Version:</b> <i>{version}</i>
 
-      <b>Developers:</b> [Divkix](https://github.com/Divkix)
+      <b>Developers:</b> [Shivansh](https://github.com/Errorshivansh)
       <b>Owner:</b> [{Owner}](tg://user?id={ID})
     support_group: Support
     language_btn: Language
     pm_for_help: "Contact me in PM to get the list of possible commands."
     private: |-
-      Hey there! My name is Alita ✨.
+      Hey there! My name is Eiva ✨.
       I'm here to help you manage your groups!
       Hit /help to find out more about how to use me to my full potential.
 
-      Join my [News Channel](http://t.me/AlitaRobotUpdates) to get information on all the latest updates.
+      Join my [News Channel](http://t.me/TheEiva) to get information on all the latest updates.
     public_help: "Press the button below to get help for <i>{help_option}</i>"
     source_code: "Source Code"
   utils:
